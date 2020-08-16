@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="r3d",
-    version="0.0.1",
+    version="0.0.2",
     author="Mohammad Sadegh Alirezaie",
     author_email="alirezaie@sadegh.org",
     description="a python package for interacting with Marling Firmware and sending GCode",
